@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">opdracht 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">instellingen</string>
+    <string name="title_activity_about">activiteit Informatie</string>
+     <string name="Afeka">
+ 	<![CDATA[ <b><font color=#00FF00><u> Welkom Afeka </u></b><b><font color=#000000> en een mooie dag verder</b> .
+		]]> 
+  	</string>
+
+</resources>

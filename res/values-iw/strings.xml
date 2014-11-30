@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">מטלה 1</string>
+    <string name="hello_world">שלום יקום!</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="title_activity_about">פעילות בנוגע למה?</string>
+     <string name="Afeka">
+ 	<![CDATA[ <b><font color=#000000>ברוכים הבאים ל</b><b><font color=#00FF00><u> מכללת אפקה </u></b><b><font color=#000000>ושיהיה לכם יום נעים</b> .
+		]]> 
+  	</string>
+
+</resources>
+
